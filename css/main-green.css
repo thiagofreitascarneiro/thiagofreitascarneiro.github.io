@@ -1144,6 +1144,10 @@ body > footer .copyrights {
   margin-bottom: 30px;
 }
 
+.service-distance {
+  padding:20px 45px 40px;
+}
+
 .service-image {
   width: 100px;
   height: 120px;
