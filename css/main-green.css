@@ -200,6 +200,11 @@ textarea.form-control, textarea.form-control:focus {
   z-index: 1;
 }
 
+/*Skill 5*/
+.skill-percentage.skill-5 {
+  width: 85%;
+}
+/*Skill 6*/
 .has-error .form-control + .form-control-border {
   background: #ff4c4c;
 }
@@ -1112,27 +1117,25 @@ body > footer .copyrights {
 /*Skill 6*/
 .skill-percentage.skill-6 {
   width: 85%;
+}/*Skill 6*/
+.skill-percentage.skill-6 {
+  width: 85%;
 }
-/*Skill 7*/
-.skill-percentage.skill-7 {
-  width: 75%;
-}
-/*Skill 8*/
-.skill-percentage.skill-8 {
-  width: 75%;
+/*Skill 9*/
+.skill-percentage.skill-9 {
+  width: 55%;
 }
 
-.skill-percentage.skill-9 {
-  width: 75%;
+/*Skill 7*/
+.skill-percentage.skill-7 {
+  width: 45%;
 }
+
 /* Skills */
 
 .download-resume {
   margin-top: 50px;
 }
-
-
-
 
 /* =======================================
 7.3. Services subpage
