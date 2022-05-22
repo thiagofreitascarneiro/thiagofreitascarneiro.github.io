@@ -905,6 +905,17 @@ body > footer .copyrights {
   margin-top: 20px;
 }
 
+.div-social {
+  position: absolute;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-right: 800px;
+  left: 55%;
+  top: 60%;
+
+}
+
 .start-page-content .social-links a {
   display: inline-block;
   width: 36px;
@@ -1118,8 +1129,8 @@ body > footer .copyrights {
 .skill-percentage.skill-6 {
   width: 85%;
 }/*Skill 6*/
-.skill-percentage.skill-6 {
-  width: 85%;
+.skill-percentage.skill-7 {
+  width: 45%;
 }
 /*Skill 9*/
 .skill-percentage.skill-9 {
